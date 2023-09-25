@@ -30,7 +30,7 @@ function Sidebar(props) {
       <i className="fas fa-project-diagram me-2" />
       Khóa học ngắn hạn
     </NavLink>
-    <NavLink to = '/'
+    <NavLink to = '/tuyenSinhiSpace/'
       href="#"
       className="list-group-item list-group-item-action bg-transparent text-danger fw-bold"
     >

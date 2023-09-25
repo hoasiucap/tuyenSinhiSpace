@@ -33,7 +33,7 @@ function ContentCPCEH() {
         Bạn mong muốn có một trung tâm giúp bạn học nhanh, nắm chắc kiến thức để
         chinh phục ngay chứng chỉ CEH?
       </li>
-      <NavLink className='btn btn-dangky text-white' to='/khoa-hoc-ceh'>Xem chi tiết</NavLink>
+      <NavLink className='btn btn-dangky text-white' to='/tuyenSinhiSpace/khoa-hoc-ceh'>Xem chi tiết</NavLink>
     </div>
   </div>
 </div>

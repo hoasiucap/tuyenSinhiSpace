@@ -47,7 +47,7 @@ function Login() {
     </div>
     <div className='d-flex justify-content-center'>
         {canLog? (
-            <NavLink to='/admin' className='btn btn-success text-white mt-5'>Xem thống kê</NavLink>): 
+            <NavLink to='/tuyenSinhiSpace/admin' className='btn btn-success text-white mt-5'>Xem thống kê</NavLink>): 
             <button type="submit" className="btn btn-primary-log mt-5 text-white">
             Đăng nhập
             </button>

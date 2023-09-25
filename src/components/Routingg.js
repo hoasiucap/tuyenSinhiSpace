@@ -18,7 +18,7 @@ import DangKy from '../user/components/DangKy'
 function Routingg() {
   const Rout = useRoutes([
     {
-      path: 'admin',
+      path: '/tuyenSinhiSpace/admin',
       element: <Layoutadmin/>,
       children: [
         {index: true, element: <Major/>},
@@ -27,7 +27,7 @@ function Routingg() {
       ]
     },
     {
-      path: '/', 
+      path: '/tuyenSinhiSpace/', 
       element: <Home/>,
       children: [
         {index: true, element: <TrangChu/>},
@@ -39,7 +39,7 @@ function Routingg() {
         {path: 'khoa-hoc-ceh' ,element: <CEH/>},
       ]
     },
-    {path: 'login', element: <Login/>},
+    {path: '/tuyenSinhiSpace/login', element: <Login/>},
     {path: '*', element: <Page404/>}
   ])
   return (

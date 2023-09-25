@@ -32,7 +32,7 @@ function ContentCPAWS() {
         Certified Solutions Architect và AWS Certified Developer - Associate về
         điện toán đám mây.
       </p>
-      <NavLink className='btn btn-dangky text-white' to='/khoa-hoc-aws'>Xem chi tiết</NavLink>
+      <NavLink className='btn btn-dangky text-white' to='/tuyenSinhiSpace/khoa-hoc-aws'>Xem chi tiết</NavLink>
     </div>
   </div>
 </div>

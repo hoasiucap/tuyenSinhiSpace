@@ -13,7 +13,7 @@ function Page404() {
                 YOU SEEM TO BE TRYING TO FIND HIS WAY HOME
             </p>
             <NavLink
-                to={'/'}
+                to={'/tuyenSinhiSpace/'}
                 href="index.html"
                 className="btn btn-danger bg-bt404 btn-rounded waves-effect waves-light mb-4"
             >

@@ -8,7 +8,7 @@ function NavbarU() {
   {/* navbar */}
   <nav className="navbar navbar-expand-xl custom-nav navbar-light bg-light">
     <div className="container">
-      <NavLink to={'/'}>
+      <NavLink to={'/tuyenSinhiSpace/'}>
       <img src ={logo} alt="" />
       </NavLink>
       <button
@@ -28,7 +28,7 @@ function NavbarU() {
             <NavLink
               className="nav-link active text-color fw-600"
               aria-current="page"
-              to='/'
+              to='/tuyenSinhiSpace/'
             >
               <i className="fas fa-home" />
             </NavLink>
