@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tuyenSinhiSpace/static/css/main.38e88522.css",
-    "main.js": "/tuyenSinhiSpace/static/js/main.dd4b5b11.js",
+    "main.js": "/tuyenSinhiSpace/static/js/main.b6fc7e2e.js",
     "static/js/787.3ce4cc4d.chunk.js": "/tuyenSinhiSpace/static/js/787.3ce4cc4d.chunk.js",
     "static/media/TKDH_4.jpg": "/tuyenSinhiSpace/static/media/TKDH_4.e91957f99050315c81b3.jpg",
     "static/media/BIEU-PHI-CHINH-CQ-A5-02.jpg": "/tuyenSinhiSpace/static/media/BIEU-PHI-CHINH-CQ-A5-02.f78388469316257eec74.jpg",
@@ -58,11 +58,11 @@
     "static/media/logo.svg": "/tuyenSinhiSpace/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/tuyenSinhiSpace/index.html",
     "main.38e88522.css.map": "/tuyenSinhiSpace/static/css/main.38e88522.css.map",
-    "main.dd4b5b11.js.map": "/tuyenSinhiSpace/static/js/main.dd4b5b11.js.map",
+    "main.b6fc7e2e.js.map": "/tuyenSinhiSpace/static/js/main.b6fc7e2e.js.map",
     "787.3ce4cc4d.chunk.js.map": "/tuyenSinhiSpace/static/js/787.3ce4cc4d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38e88522.css",
-    "static/js/main.dd4b5b11.js"
+    "static/js/main.b6fc7e2e.js"
   ]
 }
