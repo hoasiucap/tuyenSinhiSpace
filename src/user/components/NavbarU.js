@@ -28,7 +28,7 @@ function NavbarU() {
             <NavLink
               className="nav-link active text-color fw-600"
               aria-current="page"
-              to='/tuyenSinhiSpace/'
+              to='/'
             >
               <i className="fas fa-home" />
             </NavLink>
@@ -39,17 +39,17 @@ function NavbarU() {
             </a>
             <ul className="nav-child">
               <li className="nav-child-item">
-                <NavLink className="nav-link text-color fw-600 text-l" to='an-ninh-mang'>
+                <NavLink className="nav-link text-color fw-600 text-l" to='/an-ninh-mang'>
                   An ninh mạng
                 </NavLink>
               </li>
               <li className="nav-child-item">
-                <NavLink className="nav-link text-color fw-600 text-l" to='phat-trien-phan-mem'>
+                <NavLink className="nav-link text-color fw-600 text-l" to='/phat-trien-phan-mem'>
                   Phát triển phần mềm
                 </NavLink>
               </li>
               <li className="nav-child-item">
-                <NavLink className="nav-link text-color fw-600 text-l" to='thiet-ke-do-hoa'>
+                <NavLink className="nav-link text-color fw-600 text-l" to='/thiet-ke-do-hoa'>
                   Thiết kế đồ họa
                 </NavLink>
               </li>
